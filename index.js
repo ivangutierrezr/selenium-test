@@ -31,7 +31,7 @@ async function comprobarURLLogin() {
         console.log('Inicio de sesión fallido')
         await driver.findElement(By.id('username')).clear();
         await driver.sleep(2500).then(function() {
-            testLogin('123456', 'admin');
+            testLogin('123456', 'adminACME');
         });
     } else {
         console.log('Inicio de sesión exitoso')
