@@ -1,0 +1,24 @@
+{
+  "name": "selenium-test",
+  "version": "1.0.0",
+  "description": "Selenium test example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivangutierrezr/selenium-test.git"
+  },
+  "author": "Grupo 4 TPS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivangutierrezr/selenium-test/issues"
+  },
+  "homepage": "https://github.com/ivangutierrezr/selenium-test#readme",
+  "keywords": [],
+  "dependencies": {
+    "chromedriver": "^84.0.1",
+    "selenium-webdriver": "^4.0.0-alpha.7"
+  }
+}
