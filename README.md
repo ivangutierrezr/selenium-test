@@ -1,2 +1,2 @@
 # selenium-test
-Selenium test for sample react app
+Selenium test for react app example.
